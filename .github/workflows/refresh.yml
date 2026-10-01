@@ -1,0 +1,29 @@
+name: Refresh Google reviews
+
+# Mondays 15:00 UTC (9 AM Calgary in summer, 8 AM in winter), plus a manual
+# "Run workflow" button. One Google Places lookup per run.
+on:
+  schedule:
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch reviews
+        run: python scripts/refresh.py
+      - name: Commit
+        run: |
+          git config user.name "reviews-bot"
+          git config user.email "reviews-bot@users.noreply.github.com"
+          git add reviews.json
+          git commit -m "Weekly reviews refresh" || echo "No change"
+          git push
