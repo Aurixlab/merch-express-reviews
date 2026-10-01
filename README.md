@@ -13,3 +13,5 @@ Actions tab ("Refresh Google reviews" → Run workflow).
 
 If a refresh fails, the previous `reviews.json` stays in place and the site
 keeps working.
+
+Full background (the September 2026 bill, what changed, costs, open items): see [CONTEXT.md](CONTEXT.md).
