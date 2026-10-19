@@ -33,7 +33,7 @@
     "author_url": "https://www.google.com/maps/contrib/100817233750290375336/reviews",
     "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVebwxOvlZe1ySEw9HzxU0h3R9Nzu6RWFBWDHiiPkrjw-bzRTw=s128-c0x00000000-cc-rp-mo",
     "rating": 5,
-    "relative_time_description": "a month ago",
+    "relative_time_description": "2 months ago",
     "text": "",
     "time": 1787085789,
     "translated": false
@@ -66,5 +66,5 @@
   "user_ratings_total": 207
  },
  "status": "OK",
- "fetched_at": "2026-10-12T22:23:06Z"
+ "fetched_at": "2026-10-19T20:21:34Z"
 }
