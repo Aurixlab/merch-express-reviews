@@ -5,6 +5,30 @@
   "rating": 4.9,
   "reviews": [
    {
+    "author_name": "Jacquie Daniels",
+    "author_url": "https://www.google.com/maps/contrib/103842036215943895901/reviews",
+    "language": "en",
+    "original_language": "en",
+    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9g2fTpZgJKOWgZDZzoZXkcePBAmNKgH9DfXccJlP9ENhH9Vs=s128-c0x00000000-cc-rp-mo-ba4",
+    "rating": 5,
+    "relative_time_description": "in the last week",
+    "text": "Have ordered twice from them now. Great customer service, especially from Holly. And quick turnaround time with very reasonable rush fee.",
+    "time": 1792528537,
+    "translated": false
+   },
+   {
+    "author_name": "Nicole Rosebush",
+    "author_url": "https://www.google.com/maps/contrib/104544932249182858997/reviews",
+    "language": "en",
+    "original_language": "en",
+    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8bxTgL8hQk5p2NXEGCnKSuN8i_DH0NtsSpisZW4d-XiQbiQ3S=s128-c0x00000000-cc-rp-mo",
+    "rating": 5,
+    "relative_time_description": "in the last week",
+    "text": "I run a dance team for a highschool in Calgary. In the past we've always done our outfits ourselves and it takes away such valuable time for working on our routines. This year I reached out to merch express to make things easier on that end. They made it infinitely easier and our team outfits turned out better than I could have ever done. I worked with Ishtiaq through the process. He communicated quickly, walked me through the process and everything was completed quickly with lots of time before our first big competition. When I went to pick up the items the other staff were incredibly friendly, commenting on how great the merchandise turned out and helped load everything up. It was easily one of the best decisions I made for our team. The prices were in our budget and the entire ordering process was made so easy! Thank you so much. We will be working with you again for all future team needs!",
+    "time": 1792513173,
+    "translated": false
+   },
+   {
     "author_name": "Philip Greaney",
     "author_url": "https://www.google.com/maps/contrib/115823568206737839004/reviews",
     "language": "en",
@@ -23,7 +47,7 @@
     "original_language": "en",
     "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQVb9nbtJ1BEZ9kaLwQ_EWTVujtphvShn7lSwNOsIYg4udEGY=s128-c0x00000000-cc-rp-mo",
     "rating": 5,
-    "relative_time_description": "a month ago",
+    "relative_time_description": "2 months ago",
     "text": "Worked with budget promotion to create bucket hats for a bachelor party for 16 guys. They were able to accommodate our custom design onto the hats and they turned out better than expected. Loved the result and would be glad to work with them in the future. Special thanks to Rohan for going above and beyond to have our order ready. Thanks again!",
     "time": 1787509930,
     "translated": false
@@ -37,34 +61,10 @@
     "text": "",
     "time": 1787085789,
     "translated": false
-   },
-   {
-    "author_name": "Emilia Don",
-    "author_url": "https://www.google.com/maps/contrib/113261893362896057621/reviews",
-    "language": "en",
-    "original_language": "en",
-    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkAjJW0VuW4IRsLORNAd6u0N9cPKa_G1Qm0syx3RWEtSGO9UA=s128-c0x00000000-cc-rp-mo",
-    "rating": 5,
-    "relative_time_description": "2 months ago",
-    "text": "Great company! Very helpful and always have my orders available in a time efficient manor.",
-    "time": 1786118837,
-    "translated": false
-   },
-   {
-    "author_name": "Jordan Fryers",
-    "author_url": "https://www.google.com/maps/contrib/110689111756703244318/reviews",
-    "language": "en",
-    "original_language": "en",
-    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpvsUfNQt0yu8QNYk1fmSnnPZAtvt8WgKgp2vFBQ9UIMtOQA=s128-c0x00000000-cc-rp-mo-ba2",
-    "rating": 5,
-    "relative_time_description": "2 months ago",
-    "text": "We just had some hats made and Holly was incredible! She really showed care with her service and was quick to respond - you really feel in good hands and like you're speaking with a company that cares, which is hard to come by these days. Will definitely reach back to them for our future needs!",
-    "time": 1785341693,
-    "translated": false
    }
   ],
-  "user_ratings_total": 207
+  "user_ratings_total": 208
  },
  "status": "OK",
- "fetched_at": "2026-10-19T20:21:34Z"
+ "fetched_at": "2026-10-26T20:17:52Z"
 }
