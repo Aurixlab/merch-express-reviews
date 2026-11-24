@@ -5,13 +5,25 @@
   "rating": 4.9,
   "reviews": [
    {
+    "author_name": "Tamara Pittman",
+    "author_url": "https://www.google.com/maps/contrib/114728287381478506831/reviews",
+    "language": "en",
+    "original_language": "en",
+    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK31YYmM52bWPo_GsEPriAxYauTesQK_iloBZDwgJAa6-A1NQ=s128-c0x00000000-cc-rp-mo",
+    "rating": 5,
+    "relative_time_description": "in the last week",
+    "text": "We’ve had great success ordering from Budget  Promotions & now Merch Express both online and through their storefront. The process has always been easy and seamless. Opal has been wonderful to deal with—friendly, helpful, and very responsive. The quality of the t-shirts, hats, and sweaters are great, and everything turned out exactly as expected. Highly recommend Budget Promotions for quality products and excellent customer service!",
+    "time": 1795189942,
+    "translated": false
+   },
+   {
     "author_name": "Jacquie Daniels",
     "author_url": "https://www.google.com/maps/contrib/103842036215943895901/reviews",
     "language": "en",
     "original_language": "en",
     "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9g2fTpZgJKOWgZDZzoZXkcePBAmNKgH9DfXccJlP9ENhH9Vs=s128-c0x00000000-cc-rp-mo-ba4",
     "rating": 5,
-    "relative_time_description": "3 weeks ago",
+    "relative_time_description": "a month ago",
     "text": "Have ordered twice from them now. Great customer service, especially from Holly. And quick turnaround time with very reasonable rush fee.",
     "time": 1792528537,
     "translated": false
@@ -23,7 +35,7 @@
     "original_language": "en",
     "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8bxTgL8hQk5p2NXEGCnKSuN8i_DH0NtsSpisZW4d-XiQbiQ3S=s128-c0x00000000-cc-rp-mo",
     "rating": 5,
-    "relative_time_description": "3 weeks ago",
+    "relative_time_description": "a month ago",
     "text": "I run a dance team for a highschool in Calgary. In the past we've always done our outfits ourselves and it takes away such valuable time for working on our routines. This year I reached out to merch express to make things easier on that end. They made it infinitely easier and our team outfits turned out better than I could have ever done. I worked with Ishtiaq through the process. He communicated quickly, walked me through the process and everything was completed quickly with lots of time before our first big competition. When I went to pick up the items the other staff were incredibly friendly, commenting on how great the merchandise turned out and helped load everything up. It was easily one of the best decisions I made for our team. The prices were in our budget and the entire ordering process was made so easy! Thank you so much. We will be working with you again for all future team needs!",
     "time": 1792513173,
     "translated": false
@@ -47,24 +59,14 @@
     "original_language": "en",
     "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQVb9nbtJ1BEZ9kaLwQ_EWTVujtphvShn7lSwNOsIYg4udEGY=s128-c0x00000000-cc-rp-mo",
     "rating": 5,
-    "relative_time_description": "2 months ago",
+    "relative_time_description": "3 months ago",
     "text": "Worked with budget promotion to create bucket hats for a bachelor party for 16 guys. They were able to accommodate our custom design onto the hats and they turned out better than expected. Loved the result and would be glad to work with them in the future. Special thanks to Rohan for going above and beyond to have our order ready. Thanks again!",
     "time": 1787509930,
     "translated": false
-   },
-   {
-    "author_name": "Kshitij Bali",
-    "author_url": "https://www.google.com/maps/contrib/100817233750290375336/reviews",
-    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVebwxOvlZe1ySEw9HzxU0h3R9Nzu6RWFBWDHiiPkrjw-bzRTw=s128-c0x00000000-cc-rp-mo",
-    "rating": 5,
-    "relative_time_description": "3 months ago",
-    "text": "",
-    "time": 1787085789,
-    "translated": false
    }
   ],
-  "user_ratings_total": 208
+  "user_ratings_total": 207
  },
  "status": "OK",
- "fetched_at": "2026-11-16T23:38:19Z"
+ "fetched_at": "2026-11-24T01:59:38Z"
 }
